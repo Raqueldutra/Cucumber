@@ -1,9 +1,9 @@
 # Projeto Dresses
 
-##Acessa o menu summer e a categoria summer dresses
+Aplica teste funcional à listagem de produtos do menu no site http://automationpractice.com/index.php. Utilizando BDD com as ferramentas: selenium, cucumber e capybara.
 
-#Features
-* dress
+# Funcionalidades testadas
+* Listagem de produtos Summer Dresses
 
 
 
