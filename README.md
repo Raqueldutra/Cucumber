@@ -24,3 +24,10 @@ cucumber
 ```
 
 Serão executados os cenários de testes e os resultados detalhados estarão disponíveis em relatório HTML no diretório _/reports_.
+
+## Implementações/Melhorias futuras
+
+* Encapsulamento de atributos e metodos utilizando ferrramenta __site_prism
+* Melhoria nas validações
+* Execução dos canários em vários browser
+* Melhoria no relatório adicionando screenshots nos steps
