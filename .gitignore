@@ -17,6 +17,7 @@
 
 *.log
 *.lock
+reports/
 
 # Used by dotenv library to load environment variables.
 # .env
