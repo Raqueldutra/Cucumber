@@ -29,5 +29,5 @@ Serão executados os cenários de testes e os resultados detalhados estarão dis
 
 * Encapsulamento de atributos e metodos utilizando ferrramenta __site_prism__
 * Melhoria nas validações
-* Execução dos canários em vários browser
-* Melhoria no relatório adicionando screenshots nos steps
+* Execução dos cenários em vários browser
+* Melhoria no relatório adicionando screenshots dos steps
